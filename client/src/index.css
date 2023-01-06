@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap");
 
 :root {
-  --primary-color: #f69;
+  --primary-color: rgb(74, 79, 234);
 }
 
 body {
