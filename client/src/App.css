@@ -54,10 +54,11 @@
   padding: 0.5rem 1rem;
 }
 .result p {
-  color: rgb(247, 171, 171);
+  color: white;
   border: 1px solid var(--primary-color);
   padding: 0.5rem 1rem;
   margin-right: 1rem;
+  font-weight: bold;
 }
 .result button {
   padding: 0.5rem 1rem;
@@ -65,8 +66,10 @@
   cursor: pointer;
   background: var(--primary-color);
   border: none;
+  font-weight: bold;
 }
 .result button.copied {
+  font-weight: bold;
   background: rgb(247, 171, 171);
   color: var(--primary-color);
 }
